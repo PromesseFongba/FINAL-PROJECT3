@@ -1,0 +1,32 @@
+.navbar {
+  width: 100%;
+  height: 80px;
+  background-color: rgb(19, 19, 19);
+  display: flex;
+ padding: .3rem 3%;
+  align-items: center;
+  justify-content:space-between;
+  filter: drop-shadow(4px 4px 10px rgb(49, 48, 48));
+  
+}
+.navbar a{
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+}
+.links {
+  margin-right: 50px;
+  display: flex;
+  align-items: center;
+}
+.links a:hover{
+  background:rgb(211, 211, 26); 
+  color:yellow;
+}
+.links a {
+  text-decoration: none;
+  color: white;
+  margin-left: 20px;
+  font-size: 20px;
+  
+}

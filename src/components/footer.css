@@ -1,0 +1,20 @@
+.footer {
+  color: white;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(19, 19, 19);
+}
+ .col ul li a{
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+  
+}
+ ul li{
+list-style: none;
+ }
+
+ .icons{
+  color: yellow;
+ }
